@@ -11,6 +11,7 @@ namespace ConsoleApp34
         static void Main(string[] args)
         {
             Console.WriteLine("GIT");
+            Console.WriteLine("dev1");
         }
     }
 }
